@@ -34,6 +34,6 @@ Casino is a repository of casino games developed in C++ that offers a variety of
 To explore and play casino games, follow these steps:
 
 1. **Clone this repository to your local machine using Git.**
-2. Make sure you have a C++ development environment set up.**
-3. Open the project in your preferred IDE.
-4. **Run the desired game** to begin your gaming experience.
+2. **Make sure you have a C++ development environment set up.**
+3. **Open the project in your preferred IDE.**
+4. **Run the desired game** **to begin your gaming experience.**
