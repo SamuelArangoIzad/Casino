@@ -1,45 +1,39 @@
 # Casino
 
-**Descripción:**
-Casino es un repositorio de juegos de casino desarrollado en C++ que ofrece una variedad de emocionantes juegos de consola, desde blackjack hasta ruleta. El código se optimiza constantemente para mejorar el rendimiento y la experiencia del usuario.
+**Description:**
+Casino is a repository of casino games developed in C++ that offers a variety of exciting console games, from blackjack to roulette. The code is constantly being optimized to improve performance and user experience.
 
-## Tecnologías Utilizadas
-- **C++:** El repositorio está desarrollado en C++ para garantizar eficiencia y rendimiento en entornos de consola.
+## Technologies Used
+- **C++:** The repository is developed in C++ to ensure efficiency and performance in console environments.
 
-## Enfoque de Desarrollo
+## Development Approach
 
-**1. Selección y Diseño del Juego:**
-   - Identificación y documentación de los requisitos para cada juego de casino.
-   - Diseño detallado que incluye la interfaz de usuario, lógica del juego e integración con sistemas externos.
+**1. Game Selection & Design:**
+   - Identification and documentation of requirements for each casino game.
+   - Detailed design including user interface, game logic, and integration with external systems.
 
-**2. Implementación:**
-   - Desarrollo de juegos según las especificaciones de diseño en C++.
-   - Optimización continua del código para mejorar el rendimiento.
+**2. Implementation:**
+   - Game development according to C++ design specifications.
+   - Continuous code optimization to improve performance.
 
-**3. Pruebas:**
-   - Pruebas exhaustivas de funcionalidad, rendimiento e interacción del usuario.
-   - Resolución de errores identificados durante las pruebas.
+**3. Tests:**
+   - Thorough testing of functionality, performance, and user interaction.
+   - Resolution of errors identified during testing.
 
-**4. Implementación:**
-   - Despliegue del repositorio para que los usuarios puedan disfrutar de los juegos de casino en la consola.
+**4. Implementation:**
+   - Rollout of the repository so that users can enjoy casino games on the console.
 
-**5. Operación y Mantenimiento:**
-   - Procedimientos continuos para operación y mantenimiento.
-   - Monitoreo de rendimiento y solución de problemas para garantizar una experiencia de juego sin problemas.
+**5. Operation & Maintenance:**
+   - Continuous procedures for operation and maintenance.
+   - Performance monitoring and troubleshooting to ensure a smooth gaming experience.
 
-**6. Comentarios de los Usuarios:**
-   - Recopilación de comentarios de los usuarios para mejorar continuamente la experiencia de juego.
+**6. User Reviews:**
+   - Collecting user feedback to continuously improve the gaming experience.
 
-## Comenzar
-Para explorar y jugar a los juegos de casino, sigue estos pasos:
+## Get Started
+To explore and play casino games, follow these steps:
 
-1. **Clona este repositorio en tu máquina local usando Git.**
-2. Asegúrate de tener un **entorno de desarrollo C++ configurado.**
-3. Abre el proyecto en tu **IDE de preferencia.**
-4. **Ejecuta el juego** deseado para comenzar tu experiencia de juego.
-
-## Licencia
-Este proyecto está bajo la **Licencia MIT.** Eres libre de usar y modificar el código según tus necesidades.
-
-## Agradecimientos
-El proyecto Casino busca proporcionar una experiencia de juego emocionante. ¡Siéntete libre de contribuir, expandir los juegos existentes y agregar nuevas características para enriquecer la experiencia de juego! Tu retroalimentación es valiosa.
+1. **Clone this repository to your local machine using Git.**
+2. Make sure you have a C++ development environment set up.**
+3. Open the project in your preferred IDE.
+4. **Run the desired game** to begin your gaming experience.
